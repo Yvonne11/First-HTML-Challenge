@@ -4,7 +4,7 @@
 <h2>International Business</h2>
 </head>
 <body>
-<p>I was born in the Bronx, NY and I love the pizza there, it's the absolute best!</p>"
+<p>I was born in the Bronx, NY and I love the pizza there, it's the absolute best!</p>
 <p>I also like potatoes and chocolate milk</p>
 <ol>
   <li>Manhattan Christian Academy</li>
