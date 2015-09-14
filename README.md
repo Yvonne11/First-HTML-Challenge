@@ -6,6 +6,7 @@
 <body>
 <p>I was born in the Bronx, NY and I love the pizza there, it's the absolute best!</p>
 <p>I also like potatoes and chocolate milk</p>
+<table>
 <tr>
   <th scope="col">Name</th>
   <th scope="col">Industry</th>
@@ -16,6 +17,7 @@
   <td>Apparel</td>
   <td>New York, NY</td>
 </tr>
+</table>
 
 <ol>
   <li>Manhattan Christian Academy</li>
