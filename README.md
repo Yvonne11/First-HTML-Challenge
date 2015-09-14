@@ -7,9 +7,9 @@
 <p>I was born in the Bronx, NY and I love the pizza there, it's the absolute best!</p>
 <p>I also like potatoes and chocolate milk</p>
 <tr>
-  <th>Name</th>
-  <th>Industry</th>
-  <th>Location</th>
+  <th scope="col">Name</th>
+  <th scope="col">Industry</th>
+  <th scope="col">Location</th>
 </tr>
 <tr>
   <td>Macy's</td>
