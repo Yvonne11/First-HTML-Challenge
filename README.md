@@ -6,6 +6,17 @@
 <body>
 <p>I was born in the Bronx, NY and I love the pizza there, it's the absolute best!</p>
 <p>I also like potatoes and chocolate milk</p>
+<tr>
+  <th>Name</th>
+  <th>Industry</th>
+  <th>Location</th>
+</tr>
+<tr>
+  <td>Macy's</td>
+  <td>Apparel</td>
+  <td>New York, NY</td>
+</tr>
+
 <ol>
   <li>Manhattan Christian Academy</li>
   <li>PS 114</li>
