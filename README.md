@@ -17,6 +17,16 @@
   <td>Apparel</td>
   <td>New York, NY</td>
 </tr>
+<tr>
+  <td>Bell Helmets</td>
+  <td>Motorcycle Helmets</td>
+  <td>Amsterdam, Netherlands</td>
+</tr>
+<tr>
+  <td>Sephora</td>
+  <td>Makeup</td>
+  <td>Los Angeles, California</td>
+</tr>
 </table>
 
 <ol>
